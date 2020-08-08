@@ -7,19 +7,11 @@ As one of my best professors said "Coding is your Penut butter 😋".
 
 i'm passionate about tech, everything related to technology, and always trying to enhance my skills and learning new stuff.
 
-
-
-
 I'm skilled with Java, C/C++ Python, HTML and CSS
 
 Familiar with JavaScript, React.JS
 
-
-
 Hope you like my repos 😄
-
-
-
 
 Leetcode account: https://leetcode.com/seifmostafa/
 
