@@ -9,25 +9,22 @@
 <!-- BREVE DESCRIPCION -->
 <ul>
 <li>
-<p>📚 I am currently studying at <a href="https://www.certus.edu.pe/">Institute Certus</a></p>
-</li>
-<li>
 <p>🌱 I am currently in the race <strong>Software Design and Development</strong></p>
 </li>
 <li>
-<p>🏙 Creator of the <a href="https://github.com/Devs-Com">Devs Community</a> organization</p>
+<p>⚡ Part-time Gamer
 </li>
 <li>
-<p>📫 How to reach me <strong><a href="mailto:davidmramos30@gmail.com">davidmramos30@gmail.com</a></strong></p>
+<p>📫 How to reach me <strong><a href="mailto:saif.mfayez@gmail.com">saif.mfayez@gmail.com</a></strong></p>
 </li>
 </ul>
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40"></a>
-<a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40"></a>
+<a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seifmostafalinkedin" height="30" width="40"></a>
+<!-- <a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40"></a>
 <a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@SeifMostafaa" height="30" width="40"></a>
-<a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40"></a>
+<a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40"></a> -->
 </p>
 <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
